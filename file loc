@@ -21,7 +21,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=577748677",
+       Image = "http://www.roblox.com/asset/?id=83190276951914",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
